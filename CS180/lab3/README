@@ -1,0 +1,13 @@
+Jason Bonilla 2019
+CSE180
+
+The goal for this lab was to: 
+
+1. Perform SQL to “combine data” from two tables
+2. Add foreign key constraints
+3. Add general constraints
+4. Write unit tests for constraints
+5. Create and query a view
+6. Create an index
+
+Exact specifications are located in Lab2.pdf

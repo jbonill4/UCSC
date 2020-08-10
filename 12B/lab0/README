@@ -1,0 +1,5 @@
+I submitted README and hello.c
+README gives information about the program
+hello.c prints out "Hello, World!"
+The line I used to complie hello.c is below:
+-Wall -Wextra -Wpedantic -Werror –std=c99 hello.c -o myhello

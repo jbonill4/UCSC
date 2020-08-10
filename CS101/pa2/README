@@ -1,0 +1,15 @@
+//Jason Bonilla
+//jbonill4
+//PA2
+*******************************************************************************
+*				DISCLAIMER
+*I could not for the life of me figure out how to copy over a word into an array.
+*Just my double-linked list is built. Lex.c is included simply to help my 
+*program compile. Thank you.
+*******************************************************************************
+README
+Makefile
+List.c
+List.h
+Lex.c
+ListClient.c

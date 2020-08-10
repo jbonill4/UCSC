@@ -1,0 +1,4 @@
+Jason Bonilla 2019
+CSE 180
+
+The goal of this assignment is to create a PostgreSQL data scheme with 6 tables that are very similar to the tables that I created in Lab1. The tables have the same names, attributes and data types as the tables in Lab1. They also have the same primary keys but there are some UNIQUE constraints and some restrictions of NULLs. I created 6 SQL statements to the specifications in Lab2.pdf

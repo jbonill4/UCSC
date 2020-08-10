@@ -1,0 +1,16 @@
+Jason Bonilla
+
+List.java~Contains the ADT double-linked list that 'sorts' the array
+
+ListClient.java~provided
+
+Lex.java~Incorporates the linked list to sort through an input file
+
+Makefile~list of commands that compile and run my program
+
+pa1.pdf describes the assignment in more depth 
+
+
+
+
+                                             

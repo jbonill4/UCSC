@@ -1,0 +1,19 @@
+//Jason Bonilla
+//jbonill4
+//README
+//PA5
+//**********************************
+README
+Makefile
+List.c
+List.h
+Graph.h
+Graph.c
+GraphTest.c
+FindComponents.c
+//**********************************
+My program simply reads,adds arcs,and prints the graph ADT
+DFS does not run
+My makefile keeps giving me the error:
+“Multiple definition”, “first defined here”
+I cant seem to fix it.
