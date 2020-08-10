@@ -1,0 +1,7 @@
+In order to run these you will need to install py4web.
+
+To install locally, follow instructions on Installing py4web Locally.pdf
+
+To run on the web, create a free account on pythonanywhere.com. and follow the instructions on Running py4web on PythonAnywhere.pdf
+
+Once that is all set up, simply add any of folders hw2,hw3,hw4_1,hw4_2,hw5,hw6, or hw7 into the apps directory and launch.
